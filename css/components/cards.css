@@ -1,0 +1,28 @@
+.card-section{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 25px;
+}
+
+.card-white{
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgb(0 0 0 / 20%);
+  padding: 20px;
+  text-align: center;
+  width: 200px;
+}
+
+.card-white h3 {
+  font-size: 16px;
+}
+
+.card-white p {
+  font-size: 16px;
+  opacity: 0.9;
+}
+
+
+.card-white img {
+  width: 100%;
+  height: 110px;
+}
